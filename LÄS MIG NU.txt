@@ -1,0 +1,10 @@
+Gör det i SVG, dvs. generera SVG kod direkt:
+
+Läs denna för SVG i VS Code:
+https://www.freecodecamp.org/news/things-you-need-to-know-about-working-with-svg-in-vs-code-63be593444dd/
+
+Läs denna och extrapolera hur man gör hexagoner:
+https://www.tutorialscampus.com/html5/svg-draw-hexagon.htm
+
+W3Schools for SVG grafik:
+https://www.w3schools.com/graphics/svg_intro.asp
