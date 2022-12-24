@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+    <?xml version="1.0" encoding="UTF-8"?>
+<html>
+<body>
+
+<!--- OBS! cannot have object outside canvas, it has to be within the bounds given (origin in top left) -->
+<svg width="50" height="50">
+  <polygon points="5 5, 5.866 5.5, 5.866 6.5, 5 7, 4.1134 6.5, 4.1134 5.5" fill="#ce0808" stroke-width="0"/>
+</svg>
+
+</body>
+</html>
